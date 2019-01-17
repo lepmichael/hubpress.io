@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://lepmichael.github.io/lepmichael.github.io",
+    "hubpress": "https://lepmichael.github.io/lepmichael.github.io",
+    "theme": "//lepmichael.github.io/lepmichael.github.io/themes/casper",
+    "images": "https://lepmichael.github.io/lepmichael.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
